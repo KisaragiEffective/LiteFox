@@ -1,0 +1,5 @@
+{
+  "name": "LiteFox.Editor",
+  "rootNamespace": "global::LiteFox.Editor",
+  "includePlatforms": ["Editor"]
+}
